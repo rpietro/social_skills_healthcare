@@ -1,4 +1,4 @@
-# A parallel, reproducible randomized controlled trial comparing a "stakeholder enactment" online educational intervention vs control in relation to social skills.
+# An N-of-1, reproducible, semantic randomized controlled trial comparing an online, personalized storytelling educational intervention vs control for social skills improvement
 
 
 Graziela Nogueira  
@@ -11,7 +11,7 @@ Ricardo Pietrobon
 
 ## Introduction
 
-Provider increased social skills in the provision of healthcare has been previously associated with increased patient satisfaction as well as improved patient outcomes. <!-- ref --> While an extensive number of both in person and online training methods have been applied to social skills training, to our knowledge no previous studies have evaluated the efficacy of the stakeholder enactment methodology in providing online training to healthcare professionals.
+Provider social skills in healthcare has been previously associated with increased patient satisfaction as well as improved patient outcomes. <!-- ref --> While an extensive number of both in person and online training methods have been applied to social skills training, results vary widely depending on the match between the content and the individual needs of the learner. To our knowledge, however, no previous studies have evaluated the efficacy of a scalable, personalized approach method in providing online training to healthcare professionals.
 
 
 * lit review on social skils training efficacy (randomized trials) and effectiveness (observational) in healthcare
