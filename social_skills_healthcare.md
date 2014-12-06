@@ -1,6 +1,8 @@
 # An N-of-1, reproducible, semantic randomized controlled trial comparing an online, personalized storytelling educational intervention vs control for social skills improvement
 
 
+<!-- 1. experience (satisfaction) 2. alteração prática clínica 3. conhecimento 4. engagement -->
+
 Graziela Nogueira  
 João Ricardo Vissoci  
 Bruno Melo  
@@ -22,17 +24,29 @@ The objective of this educational, reproducible, online parallel randomized tria
 
 ## Methods
 
-This trial was designed and reported in accordance with the recommendations provided by the [CONSORT statement, version 2010](http://www.consort-statement.org/)
+<!-- 
+
+: proxima reuniao esqueleto ricardo qualitativo rastreamento/feedback vs entrevista https://mail.google.com/mail/u/0/?tab=wm#inbox/14884e2cac8b7330 - como funciona em relação a nof1 qualitativo - rastreamento e tambem intervencao com storytellingescala rastreamento trial nof1 rastreamento qualitativo roteiro conceito+situação personalized learning scalable - transmedia storytelling scale??? Diferentes constructos – habilidade sociais: - 
+
+Dar ordens ou ameaçar X indicações terapêuticas - Lições de moral X informar e questionar - Sugestões e conselhos X oferecer e examinar junto com o cliente alternativas, idéias e informações (co-responsabilidade) - Persuasão - Negar percepções - Falar sobre uma doença grave – falar de modo brusco e frio X Atitude de ajuda - Falso apoio X Reasseguramento - Ignorar o problema do cliente - Mensagens contraditórias - Criticar - Elogiar X Reconhecimento - Fazer e responder perguntas - Atender de modo impessoal e puramente técnico - Não olhar para o paciente ou se distrair com outras coisas durante o atendimento - Reflexão de sentimentos - Atitude clínica - Intervenções apressadas ou prematuras - Medo dos sentimentos - Focalização em pistas não-verbais - Auto-expressão (reflexão dos nossos sentimentos) - Colocar limites - Confronto - Resolução conjunta de impasses - Orientação antecipatória - Uso de termos técnicos - Empatia - Problemas com vestuário e higiene - Barreiras físicas 
+
+
+-->
+
+This trial was designed and reported in accordance with the recommendations provided by the [CONSORT statement, version 2010](http://www.consort-statement.org/) modified for the reporting on N-of-1 trials <!-- ref Personalized Learning Consortium if published -->
 
 ### Ethics
 This study was approved by the Ethics Committe at the University of São Paulo ([Universidade de São Paulo](http://www5.usp.br/en/)), informed consent having been waived since this was considered a research with minimal risk within an educational context. All participants were ensured that their involvement with the trial was absolutely unrelated to their performance in their current work or study and that they could exit the study at any point if they so desired.
 
 ### Trial Design
 
-This is a parallel, reproducible, controlled randomized trial comparing a control versus a scalable coaching arm. The trial involved 106 participants who completed the trial <!-- replace by the actual number and describe dropout rate -->, randomized on a 1:1 ratio to the intervention and control arms, with the intervention and respective follow-up lasting a total of four weeks. No changes to the initially methods design were implemented while the trial was in course. <!-- need to check at the end whether this is true -->
+This is an N-of-1 trial comparing a personalized approach to the teaching of social skills among healthcare professionals vs. control and its effects on learner's satisfaction, self-perception regarding ability to handle social skill situations, peer-perception regarding change, knowledge and attrition.
+
+
+<!-- This is a parallel, reproducible, controlled randomized trial comparing a control versus a scalable coaching arm. The trial involved 106 participants who completed the trial replace by the actual number and describe dropout rate, randomized on a 1:1 ratio to the intervention and control arms, with the intervention and respective follow-up lasting a total of four weeks. No changes to the initially methods design were implemented while the trial was in course. need to check at the end whether this is true -->
 
 ### Participants
-Our study involved 106 participants. Participants were health care providers or students at <!-- add -->, located in the metropolitan area of São Paulo. For each participant we have collected information on gender, age, profession and previous educational background.
+Our study involved 22 participants, with a total of  . Participants were health care providers or students at <!-- add -->, located in the metropolitan area of São Paulo. For each participant we have collected information on gender, age, profession and previous educational background.
 
 ### Interventions
 
